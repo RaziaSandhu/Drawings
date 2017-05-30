@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ae-awt">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/lib/ae-awt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

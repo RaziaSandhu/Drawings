@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Drawings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\heart.png",
+        "source": "E:\\Drawings\\app\\src\\main\\res\\drawable-hdpi\\heart.png"
+    },
+    {
+        "merged": "E:\\Drawings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "E:\\Drawings\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\Drawings\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\menu.png",
+        "source": "E:\\Drawings\\app\\src\\main\\res\\drawable-hdpi\\menu.png"
+    }
+]

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#DB3062</color>
+    <color name="colorPrimaryDark">#A60737</color>
+    <color name="colorAccent">#DB3062</color>
+
+    <color name="txtColor">#C9D42B</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#EF2323</color>
+    <color name="black">#000000</color>
+    <color name="barcolor">#191717</color>
+    <color name="lineColor">#303135</color>
+    <color name="transparent">#00000000</color>
+    <color name="grey">#919499</color>
+    <color name="shade_color">#99cccccc</color>
+    <color name="orange">#FA6524</color>
+    <color name="trans">#00faf8f8</color>
+</resources>
