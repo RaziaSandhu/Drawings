@@ -9,6 +9,8 @@ public class ColorModel {
     int Hue;
     int Saturation;
 
+    int AddedRazia;
+
     public int getValue() {
         return Value;
     }
@@ -43,6 +45,14 @@ public class ColorModel {
 
     public String getColorname() {
         return colorname;
+    }
+
+    public int getAddedRazia() {
+        return AddedRazia;
+    }
+
+    public void setAddedRazia(int addedRazia) {
+        AddedRazia = addedRazia;
     }
 
     public void setColorname(String colorname) {
