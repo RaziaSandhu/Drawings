@@ -7,6 +7,7 @@ package com.almondmendoza;
 public class ColorModelBelow
 {
     int color;
+    int wrong;
 
     public int getEndcolor() {
         return endcolor;
@@ -32,6 +33,14 @@ public class ColorModelBelow
 
     public void setColor(int color) {
         this.color = color;
+    }
+
+    public int getWrong() {
+        return wrong;
+    }
+
+    public void setWrong(int wrong) {
+        this.wrong = wrong;
     }
 
     boolean selected;
